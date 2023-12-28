@@ -63,12 +63,12 @@ export default function App() {
   return (
       <main className="main">
 
-        <h2>Project 5: GitHub Account Finder</h2>
+        <h2>Project : GitHub Account Finder</h2>
 
         <div className="search-form">
 
             <input
-              placeholder="Enter username or email"
+              placeholder="Enter Username or Email"
               // onChange={handleOnChange}
               onChange={handleOnChange}
             />
