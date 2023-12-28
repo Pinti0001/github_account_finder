@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Discription 
-### Explore the GitHub Universe Seamlessly 🪐
+ Explore the GitHub Universe Seamlessly 🪐
 
 Discover and connect with developers, projects, and code effortlessly with the GitHub Account Finder app!
 
