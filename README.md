@@ -32,9 +32,9 @@ Discover and connect with developers, projects, and code effortlessly with the G
 
 In the project directory, you can run:
 
-1. Clone this repository: >git clone https://github.com/your-username/github-account-finder
-1. Install dependencies: >npm install
-1. Start the app: >npm start
+1. Clone this repository: > git clone https://github.com/your-username/github-account-finder
+1. Install dependencies: > npm install
+1. Start the app: > npm start
 
 
 ## Learn More
