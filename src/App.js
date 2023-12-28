@@ -73,12 +73,12 @@ export default function App() {
               onChange={handleOnChange}
             />
             <button 
-              onClick={onSearchSubmit}
+              onClick={onSearchSubmit} 
               >Search</button>
 
         </div>
 
-          <h3>Results</h3>
+          <h3>Results Found 👇 </h3>
           <div id="results">
             <Fragment>
               {results.map((user) => (
