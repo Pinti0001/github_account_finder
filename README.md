@@ -11,11 +11,11 @@ Discover and connect with developers, projects, and code effortlessly with the G
 
 - Effortless Search: Locate GitHub accounts with lightning speed by simply entering a username.
 - Comprehensive Profiles: Uncover in-depth information, including:
-    - Bio
-    - Location
-    - Followers
-    - Public repositories
     - Profile picture
+    - Name
+    - Bio
+    - Public repositories
+
 - Seamless Repository Exploration: Dive into a user's repositories to examine their code, contributions, and projects.
 - Intuitive Interface: Navigate effortlessly with a user-friendly design that puts the focus on discovery.
 
